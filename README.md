@@ -1,4 +1,4 @@
-# Football Analytics – Analyse des performances des championnats européens
+# Football Analytics - Analyse des performances des championnats européens
 
 ## 1. Présentation du projet
 
